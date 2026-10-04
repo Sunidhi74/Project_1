@@ -1,2 +1,3 @@
 # Project_1
-Author - Sunidhi Tiwari
+Author - Sunidhi Tiwari 
+About  - Learning and growing
